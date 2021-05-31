@@ -11,9 +11,12 @@ I customize the webpage using Bootstrap, and equip the table with several fully 
 
 
 ## Results: 
-So onve loaded the user sees a page with interactive table and user can select date, city, country an shape of the UFO to narrow down the search and find out infor about the UFO sighting. So once of page user can add the date or city of interest to get specific results. 
-
+So once loaded the user sees a page with interactive table and user can select date, city, country an shape of the UFO to narrow down the search and find out infor about the UFO sighting. So once of page user can add the date or city of interest to get specific results. 
+#### Full Table:
 ![screenshot 1](https://user-images.githubusercontent.com/69255270/120163541-7832d680-c1ae-11eb-9938-4865b59f8e52.jpg)
+
+
+#### Tbale with Filters:
 ![Screenshot 2](https://user-images.githubusercontent.com/69255270/120163557-7a953080-c1ae-11eb-8ca0-b25f1139bd44.jpg)
 
 
