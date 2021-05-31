@@ -16,7 +16,7 @@ So once loaded the user sees a page with interactive table and user can select d
 ![screenshot 1](https://user-images.githubusercontent.com/69255270/120163541-7832d680-c1ae-11eb-9938-4865b59f8e52.jpg)
 
 
-#### Tbale with Filters:
+#### Table with Filters:
 ![Screenshot 2](https://user-images.githubusercontent.com/69255270/120163557-7a953080-c1ae-11eb-8ca0-b25f1139bd44.jpg)
 
 
